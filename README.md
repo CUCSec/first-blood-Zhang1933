@@ -20,7 +20,7 @@
  
   ①于是得到一个病毒行为创建一个12.exe与2019.exe进程。
    * 对12.exe与2019.exe进程行为监控发现创建了autorun.inf与lotto.exe登文件
-  ![pro](img/cautorun.PNG)
+  ![pro](./img/cautorun.PNG)
   
  
   1. 打开porcess monitor 然后打开设置过滤器对1.exe进行进一步分析
@@ -45,14 +45,14 @@
 
   ## 开始用火绒剑进行分析与查杀
    1. 针对所分析的开启的进程结束掉其所创建的进程及其子进程。
-   ![ru](img/k12.PNG)
+   ![ru](./img/k12.PNG)
    
    2. 针对文件
      将图标是文件夹但类型是应用程序的删除，先把能删的用火绒的强制删除删掉.点开autorun.inf文件
-     ![auto](img/autorun.PNG)
+     ![auto](./img/autorun.PNG)
      发现里面都是关于lotto.exe启动的配置，（也就是说每点一次盘，就会启动一次病毒进程）
    3. 针对启动项
-   ![pop](img/run12.PNG)
+   ![pop](./img/run12.PNG)
    其创建的都删掉，如果删不掉的话就点击查看文件，将图标是文件夹但类型是应用程序的删除，先把能删的用火绒的强制删除删掉
 
 
