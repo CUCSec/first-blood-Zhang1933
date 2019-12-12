@@ -1,0 +1,1145 @@
+Time of Day,Process Name,PID,Operation,Path,Result,Detail
+44:57.9,1.exe,4080,Thread Create,,SUCCESS,Thread ID: 2100
+44:58.0,1.exe,4080,Load Image,C:\Users\vegetable\Desktop\1.exe,SUCCESS,"Image Base: 0x400000, Image Size: 0xde000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\System32\ntdll.dll,SUCCESS,"Image Base: 0x7ffcf7500000, Image Size: 0x1f0000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\ntdll.dll,SUCCESS,"Image Base: 0x77170000, Image Size: 0x19a000"
+44:58.0,1.exe,4080,CreateFile,C:\Windows\Prefetch\1.EXE-5394C3DF.pf,NAME NOT FOUND,"Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Attributes: n/a, ShareMode: None, AllocationSize: n/a"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Session Manager,REPARSE,Desired Access: Query Value
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock,NAME NOT FOUND,Length: 80
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap,REPARSE,Desired Access: Query Value
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies,NAME NOT FOUND,Length: 24
+44:58.0,1.exe,4080,CreateFile,C:\Windows,SUCCESS,"Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\hivelist,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\hivelist\\Registry\User\S-1-5-21-868303909-713215063-1058131251-1001_Classes,SUCCESS,"Type: REG_SZ, Length: 172, Data: \Device\HarddiskVolume2\Users\vegetable\AppData\Local\Microsoft\Windows\UsrClass.dat"
+44:58.0,1.exe,4080,Load Image,C:\Windows\System32\wow64.dll,SUCCESS,"Image Base: 0x7ffcf7460000, Image Size: 0x55000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\System32\wow64win.dll,SUCCESS,"Image Base: 0x7ffcf5ee0000, Image Size: 0x7d000"
+44:58.0,1.exe,4080,CreateFile,C:\Windows\System32\wow64log.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\Microsoft\Wow64\x86,SUCCESS,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Wow64\x86\1.exe,NAME NOT FOUND,Length: 520
+44:58.0,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Wow64\x86\(Default),SUCCESS,"Type: REG_SZ, Length: 26, Data: wow64cpu.dll"
+44:58.0,1.exe,4080,Load Image,C:\Windows\System32\wow64cpu.dll,SUCCESS,"Image Base: 0x77160000, Image Size: 0x9000"
+44:58.0,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop,SUCCESS,"Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\kernel32.dll,SUCCESS,"Image Base: 0x74ec0000, Image Size: 0xe0000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\KernelBase.dll,SUCCESS,"Image Base: 0x74bb0000, Image Size: 0x1fc000"
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\3c74afb9-8d82-44e3-b52c-365dbf48382a,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\05f95efe-7f75-49c7-a994-60a55cc09571,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Terminal Server,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Terminal Server\TSAppCompat,NAME NOT FOUND,Length: 548
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Terminal Server\TSUserEnabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\SafeBoot\Option,REPARSE,"Desired Access: Query Value, Set Value"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Srp\GP\DLL,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Policies\Microsoft\Windows\Safer\CodeIdentifiers,REPARSE,Desired Access: Query Value
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Safer\CodeIdentifiers,SUCCESS,Desired Access: Query Value
+44:58.0,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled,NAME NOT FOUND,Length: 80
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers,NAME NOT FOUND,Desired Access: Query Value
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\FileSystem\,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\FileSystem,SUCCESS,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.0,1.exe,4080,CreateFile,C:\Windows\SysWOW64\apphelp.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\8ccca27d-f1d8-4dda-b5dd-339aee937731,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags,SUCCESS,Desired Access: Query Value
+44:58.0,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\LogFlags,NAME NOT FOUND,Length: 20
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\18608e62-a628-49d9-8c02-55972e097d24,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\ShowDebugInfo,NAME NOT FOUND,Length: 20
+44:58.0,1.exe,4080,CreateFile,C:\Windows\apppatch\sysmain.sdb,SUCCESS,"Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders,SUCCESS,Desired Access: Query Value
+44:58.0,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Cache,SUCCESS,"Type: REG_SZ, Length: 122, Data: C:\Users\vegetable\AppData\Local\Microsoft\Windows\INetCache"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Disable8And16BitMitigation,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SYSTEM\CurrentControlSet\Control\Nls\CustomLocale,REPARSE,Desired Access: Query Value
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\EMPTY,NAME NOT FOUND,Length: 120
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\NLS\Language,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\Language\InstallLanguageFallback,BUFFER OVERFLOW,Length: 16
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\MUI\UILanguages,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\MUI\UILanguages\zh-CN,SUCCESS,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\MUI\UILanguages\zh-CN\Type,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 146"
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\MUI\UILanguages\zh-CN\DefaultFallback,SUCCESS,"Type: REG_SZ, Length: 12, Data: en-US"
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\MUI\UILanguages\zh-CN\en-US,SUCCESS,"Type: REG_MULTI_SZ, Length: 4, Data: "
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\MUI\UILanguages\zh-CN\AlternateCodePage,NAME NOT FOUND,Length: 12
+44:58.0,1.exe,4080,RegOpenKey,HKLM\OSDATA\System\CurrentControlSet\Control\MUI\UILanguages,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\MUI\UILanguages\PendingDelete,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Policies\Microsoft\MUI\Settings,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\MUI\Settings,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKCU,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: All Access"
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\MUI\Settings\LanguageConfiguration,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Software\Policies\Microsoft\Control Panel\Desktop,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Control Panel\Desktop\LanguageConfiguration,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Control Panel\Desktop,SUCCESS,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKCU\Control Panel\Desktop\PreferredUILanguages,NAME NOT FOUND,Length: 12
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Control Panel\Desktop\MuiCached,SUCCESS,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages,BUFFER OVERFLOW,Length: 12
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Session Manager\SafeDllSearchMode,NAME NOT FOUND,Length: 16
+44:58.0,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\MSVBVM60.DLL,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.0,1.exe,4080,CreateFile,C:\Windows\SysWOW64\msvbvm60.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\user32.dll,SUCCESS,"Image Base: 0x761c0000, Image Size: 0x195000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\win32u.dll,SUCCESS,"Image Base: 0x74e30000, Image Size: 0x17000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\gdi32.dll,SUCCESS,"Image Base: 0x74ad0000, Image Size: 0x21000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\gdi32full.dll,SUCCESS,"Image Base: 0x75cf0000, Image Size: 0x15a000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\msvcp_win.dll,SUCCESS,"Image Base: 0x75ad0000, Image Size: 0x7c000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\ucrtbase.dll,SUCCESS,"Image Base: 0x75bd0000, Image Size: 0x11f000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\advapi32.dll,SUCCESS,"Image Base: 0x75f60000, Image Size: 0x79000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\msvcrt.dll,SUCCESS,"Image Base: 0x76810000, Image Size: 0xbf000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\sechost.dll,SUCCESS,"Image Base: 0x75b50000, Image Size: 0x76000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\rpcrt4.dll,SUCCESS,"Image Base: 0x75170000, Image Size: 0xbb000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\sspicli.dll,SUCCESS,"Image Base: 0x74940000, Image Size: 0x20000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\cryptbase.dll,SUCCESS,"Image Base: 0x74930000, Image Size: 0xa000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\bcryptprimitives.dll,SUCCESS,"Image Base: 0x75010000, Image Size: 0x5f000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\ole32.dll,SUCCESS,"Image Base: 0x75fe0000, Image Size: 0xf7000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\combase.dll,SUCCESS,"Image Base: 0x752c0000, Image Size: 0x276000"
+44:58.0,1.exe,4080,Load Image,C:\Windows\SysWOW64\oleaut32.dll,SUCCESS,"Image Base: 0x77090000, Image Size: 0x92000"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,REPARSE,"Desired Access: Query Value, Enumerate Sub Keys"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options,SUCCESS,"Desired Access: Query Value, Enumerate Sub Keys"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DllNXOptions,NAME NOT FOUND,"Desired Access: Query Value, Enumerate Sub Keys"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default),SUCCESS,"Type: REG_SZ, Length: 18, Data: 0006020F"
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\zh-CN,NAME NOT FOUND,Length: 532
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale\zh-CN,NAME NOT FOUND,Length: 532
+44:58.0,1.exe,4080,CreateFile,C:\Windows\SysWOW64\imm32.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\f25bcd2e-2690-55dc-3bc4-07b65b1b41c9,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\1.exe,NAME NOT FOUND,"Desired Access: Query Value, Enumerate Sub Keys"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Policies\Microsoft\Windows\Display,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Display,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\GRE_Initialize,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\GRE_Initialize,SUCCESS,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\GRE_Initialize\DisableMetaFiles,NAME NOT FOUND,Length: 20
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\Policies\Microsoft\Windows\Control Panel\Desktop,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Software\Policies\Microsoft\Windows\Control Panel\Desktop,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKCU\Control Panel\Desktop\EnablePerProcessSystemDPI,NAME NOT FOUND,Length: 20
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Compatibility32,SUCCESS,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Compatibility32\1,NAME NOT FOUND,Length: 172
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\IME Compatibility,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Windows,SUCCESS,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Windows\LoadAppInit_DLLs,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy,REPARSE,Desired Access: Query Value
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy\Enabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.0,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Lsa,REPARSE,Desired Access: Query Value
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy\MDMEnabled,NAME NOT FOUND,Length: 20
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SYSTEM\CurrentControlSet\Policies\Microsoft\Cryptography\Configuration,REPARSE,Desired Access: Query Value
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\a6d3c9ac-9128-522a-495a-1821191173c2,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\ca967c75-04bf-40b5-9a16-98b5f9332a92,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\b6fd710b-f783-4b1c-ab9c-c68099dcc0c7,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\OLE,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Ole,SUCCESS,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Ole\PageAllocatorUseSystemHeap,NAME NOT FOUND,Length: 20
+44:58.0,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Ole\PageAllocatorSystemHeapIsPrivate,NAME NOT FOUND,Length: 20
+44:58.0,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Ole\AggressiveMTATesting,NAME NOT FOUND,Length: 16
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\Microsoft\Ole\FeatureDevelopmentProperties,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\AppModel\Lookaside\Packages,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\Local Settings,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\Local Settings\Software\Microsoft\Ole\FeatureDevelopmentProperties,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\Local Settings\Software\Microsoft\Ole,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\Local Settings\Software\Microsoft,SUCCESS,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\OLE\Tracing,REPARSE,Desired Access: Read
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Ole\Tracing,NAME NOT FOUND,Desired Access: Read
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\1aff6089-e863-4d36-bdfd-3581f07440be,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\f0558438-f56a-5987-47da-040ca75aef05,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\c7e09e2a-c663-5399-af79-2fccd321d19a,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\703fcc13-b66f-5868-ddd9-e2db7f381ffb,NAME NOT FOUND,Length: 528
+44:58.0,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\OLEAUT,NAME NOT FOUND,Desired Access: Query Value
+44:58.1,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000602xx,SUCCESS,"Type: REG_SZ, Length: 26, Data: kernel32.dll"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\Globalization\Sorting\SortDefault.nls,SUCCESS,"Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\Sorting\Ids,REPARSE,Desired Access: Read
+44:58.1,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\Sorting\Ids\zh-CN,NAME NOT FOUND,Length: 90
+44:58.1,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\Sorting\Ids\zh,SUCCESS,"Type: REG_SZ, Length: 78, Data: {0000003A-57EE-1E5C-00B4-D0000BB1E11E}"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\VB6CHS.DLL,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.1,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Session Manager\SafeProcessSearchMode,NAME NOT FOUND,Length: 16
+44:58.1,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\IMM32.DLL,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.1,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\en-US,NAME NOT FOUND,Length: 532
+44:58.1,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale\en-US,NAME NOT FOUND,Length: 532
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\rpcss.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.1,1.exe,4080,Load Image,C:\Windows\SysWOW64\kernel.appcore.dll,SUCCESS,"Image Base: 0x74eb0000, Image Size: 0xf000"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\uxtheme.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,RegOpenKey,HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize,SUCCESS,Desired Access: Query Value
+44:58.1,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize\AppsUseLightTheme,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.1,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\673cf800-208a-5327-3f4b-2be44a66627a,NAME NOT FOUND,Length: 528
+44:58.1,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\1.exe.cfg,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.1,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\SXS.DLL,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\sxs.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,Load Image,C:\Windows\SysWOW64\msctf.dll,SUCCESS,"Image Base: 0x75e50000, Image Size: 0x103000"
+44:58.1,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Nls\Codepage,REPARSE,Desired Access: Read
+44:58.1,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\932,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_932.nls"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\System32\C_932.NLS,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\949,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_949.nls"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\System32\C_949.NLS,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\CodePage\950,SUCCESS,"Type: REG_SZ, Length: 20, Data: c_950.nls"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\System32\C_950.NLS,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\VBA\Monitors,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.1,1.exe,4080,Load Image,C:\Windows\SysWOW64\coml2.dll,SUCCESS,"Image Base: 0x77020000, Image Size: 0x5e000"
+44:58.1,1.exe,4080,CreateFile,C:\Users\vegetable\AppData\Local\Temp\~DF948ACCA5DA6948C6.TMP,SUCCESS,"Desired Access: Generic Read/Write, Disposition: Create, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: 0, OpenResult: Created"
+44:58.1,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide,NAME NOT FOUND,Desired Access: Read
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\uxtheme.dll.Config,NAME NOT FOUND,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:58.1,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\SideBySide\AssemblyStorageRoots,NAME NOT FOUND,Desired Access: Enumerate Sub Keys
+44:58.1,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\1.exe.Local,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.356_none_2e71e654278b50d2,SUCCESS,"Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.356_none_2e71e654278b50d2\comctl32.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\WindowsShell.Manifest,SUCCESS,"Desired Access: Generic Read/Execute, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,QueryDirectory,C:\Users\vegetable\Desktop\*,SUCCESS,"Filter: *, 1: ."
+44:58.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: All Access"
+44:58.1,1.exe,4080,RegOpenKey,HKLM\Software\Microsoft\COM3,SUCCESS,Desired Access: Read
+44:58.1,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\COM3\Com+Enabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.1,1.exe,4080,Load Image,C:\Windows\SysWOW64\clbcatq.dll,SUCCESS,"Image Base: 0x74db0000, Image Size: 0x80000"
+44:58.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{6BF52A52-394A-11D3-B153-00C04F79FAA6},NAME NOT FOUND,Desired Access: Read
+44:58.1,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11D3-B153-00C04F79FAA6},SUCCESS,Desired Access: Read
+44:58.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.1,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.1,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\ActivateOnHostFlags,NAME NOT FOUND,Length: 16
+44:58.1,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\(Default),BUFFER OVERFLOW,Length: 12
+44:58.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\InprocServer32,NAME NOT FOUND,Desired Access: Read
+44:58.1,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\InprocServer32,SUCCESS,Desired Access: Read
+44:58.1,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\InprocServer32\InprocServer32,NAME NOT FOUND,Length: 12
+44:58.1,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\InprocServer32\(Default),BUFFER OVERFLOW,Length: 12
+44:58.1,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\InprocServer32\ThreadingModel,SUCCESS,"Type: REG_SZ, Length: 20, Data: Apartment"
+44:58.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.1,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.1,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.1,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Ole\MaxSxSHashCount,NAME NOT FOUND,Length: 16
+44:58.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.1,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.1,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\AppID,NAME NOT FOUND,Length: 112
+44:58.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.1,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.1,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{6BF52A52-394A-11d3-B153-00C04F79FAA6}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\wmp.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,Load Image,C:\Windows\SysWOW64\SHCore.dll,SUCCESS,"Image Base: 0x74b20000, Image Size: 0x84000"
+44:58.1,1.exe,4080,Load Image,C:\Windows\SysWOW64\cryptsp.dll,SUCCESS,"Image Base: 0x74fa0000, Image Size: 0x13000"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\gnsdk_fp.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.356_none_5f5cd939821dcaa0,SUCCESS,"Desired Access: Execute/Traverse, Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,Load Image,C:\Windows\SysWOW64\bcrypt.dll,SUCCESS,"Image Base: 0x74b00000, Image Size: 0x19000"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\ntmarta.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\WMVCORE.DLL,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.356_none_5f5cd939821dcaa0\GdiPlus.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\dwmapi.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\mfperfhelper.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.1,1.exe,4080,CreateFile,C:\Windows\SysWOW64\WMASF.DLL,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.2,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\Windows Media\WMSDK\Metering,NAME NOT FOUND,Desired Access: Read
+44:58.2,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\f3a71a4b-6118-4257-8ccb-39a33ba059d4,NAME NOT FOUND,Length: 528
+44:58.2,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\MediaPlayer\MLS\Extensions,NAME NOT FOUND,Desired Access: Read
+44:58.2,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Session Manager\PendingFileRenameOperations,NAME NOT FOUND,Length: 12
+44:58.2,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\f3f14ff3-7b80-4868-91d0-d77e497b025e,NAME NOT FOUND,Length: 528
+44:58.2,1.exe,4080,RegCreateKey,HKLM\Software\WOW6432Node\Microsoft\MediaPlayer\Preferences\,SUCCESS,"Desired Access: Read/Write, Disposition: REG_OPENED_EXISTING_KEY"
+44:58.2,1.exe,4080,RegSetInfoKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\PREFERENCES,SUCCESS,"KeySetInformationClass: KeySetHandleTagsInformation, Length: 0"
+44:58.2,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\PREFERENCES\ForceDisableTerminateOnHeapCorruption,NAME NOT FOUND,Length: 16
+44:58.2,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\MediaPlayer\Preferences\,SUCCESS,"Desired Access: Read/Write, Disposition: REG_OPENED_EXISTING_KEY"
+44:58.2,1.exe,4080,RegSetInfoKey,HKCU\Software\Microsoft\MediaPlayer\Preferences,SUCCESS,"KeySetInformationClass: KeySetHandleTagsInformation, Length: 0"
+44:58.2,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ForceDisableTerminateOnHeapCorruption,NAME NOT FOUND,Length: 16
+44:58.2,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\PREFERENCES\TerminateOnHeapCorruption,NAME NOT FOUND,Length: 16
+44:58.2,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\TerminateOnHeapCorruption,NAME NOT FOUND,Length: 16
+44:58.2,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\e2821408-c59d-418f-ad3f-aa4e792aeb79,NAME NOT FOUND,Length: 528
+44:58.2,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\a9c1a3b7-54f3-4724-adce-58bc03e3bc78,NAME NOT FOUND,Length: 528
+44:58.2,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\2d8299f1-8b5a-4b80-8754-f7cd25c231be,NAME NOT FOUND,Length: 528
+44:58.2,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\596426a4-3a6d-526c-5c63-7ca60db99f8f,NAME NOT FOUND,Length: 528
+44:58.2,1.exe,4080,Load Image,C:\Windows\SysWOW64\shlwapi.dll,SUCCESS,"Image Base: 0x760e0000, Image Size: 0x44000"
+44:58.2,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\AcceptedPrivacyStatement,NAME NOT FOUND,Length: 16
+44:58.2,1.exe,4080,CreateFile,C:\Windows\SysWOW64\wmploc.DLL,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.2,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\2b11684a-7466-4fb5-9e28-d9465caa74ba,NAME NOT FOUND,Length: 528
+44:58.2,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\MediaPlayer\Debug,NAME NOT FOUND,Desired Access: Query Value
+44:58.2,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\MediaPlayer\Health,NAME NOT FOUND,Desired Access: Read
+44:58.2,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\MediaPlayer\Health\{3B470813-C711-4C41-8E77-921A7F21CC52},NAME NOT FOUND,Desired Access: Read/Write
+44:58.2,1.exe,4080,RegCreateKey,HKCU\Software,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: All Access, Disposition: REG_OPENED_EXISTING_KEY"
+44:58.2,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: All Access, Disposition: REG_OPENED_EXISTING_KEY"
+44:58.2,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\MediaPlayer,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: All Access, Disposition: REG_OPENED_EXISTING_KEY"
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\785e3ea5-a921-427c-8edb-0583d49c7636,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Policies\Microsoft\WindowsStore,REPARSE,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\WindowsStore,NAME NOT FOUND,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys,REPARSE,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\LanguageOverlay\OverlayPackages\zh-CN,REPARSE,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\LanguageOverlay\OverlayPackages\zh-CN,SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\LanguageOverlay\OverlayPackages\zh-CN\Latest,SUCCESS,"Type: REG_SZ, Length: 208, Data: C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackzh-CN_18362.16.53.0_neutral__8wekyb3d8bbwe"
+44:58.3,1.exe,4080,CreateFile,C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackzh-CN_18362.16.53.0_neutral__8wekyb3d8bbwe\Windows\System32\zh-CN\wmploc.DLL.mui,SUCCESS,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,CreateFile,C:\Windows\WinSxS\SystemResources\gdiplus.dll.mun,PATH NOT FOUND,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:58.3,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\DebugLogging,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\DefaultAudioLanguage,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E},NAME NOT FOUND,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E},SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.3,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.3,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\ActivateOnHostFlags,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\(Default),BUFFER OVERFLOW,Length: 12
+44:58.3,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\InprocServer32,NAME NOT FOUND,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\InprocServer32,SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\InprocServer32\InprocServer32,NAME NOT FOUND,Length: 12
+44:58.3,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\InprocServer32\(Default),BUFFER OVERFLOW,Length: 12
+44:58.3,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\InprocServer32\ThreadingModel,SUCCESS,"Type: REG_SZ, Length: 10, Data: both"
+44:58.3,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.3,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.3,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.3,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.3,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\AppID,NAME NOT FOUND,Length: 112
+44:58.3,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.3,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.3,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{BCDE0395-E52F-467C-8E3D-C4579291692E}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\MMDevAPI.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\devobj.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,Load Image,C:\Windows\SysWOW64\cfgmgr32.dll,SUCCESS,"Image Base: 0x76fe0000, Image Size: 0x3b000"
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices,SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\ShowHiddenEndpoints,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Rpc,REPARSE,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Rpc,SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Rpc\MaxRpcSize,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\CCG,REPARSE,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName,REPARSE,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName\ComputerName,SUCCESS,"Type: REG_SZ, Length: 32, Data: DESKTOP-SLTEQRK"
+44:58.3,1.exe,4080,RegOpenKey,HKLM\System\Setup,SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SYSTEM\Setup\OOBEInProgress,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SYSTEM\Setup\SystemSetupInProgress,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.3,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Policies\Microsoft\Windows NT\Rpc,REPARSE,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows NT\Rpc,NAME NOT FOUND,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Rpc\IdleTimerWindow,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Audio,SUCCESS,Desired Access: Query Value
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Audio\DevApiIsRunningInVM,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\DeviceClasses\{6994ad04-93ef-11d0-a3cc-00a0c9223196},SUCCESS,Desired Access: All Access
+44:58.3,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\DeviceClasses\{6994ad04-93ef-11d0-a3cc-00a0c9223196}\Properties,NAME NOT FOUND,Desired Access: Query Value
+44:58.3,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Enum\HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31E60982&0&0001,SUCCESS,"Desired Access: Query Value, Maximum Allowed"
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Enum\HDAUDIO\FUNC_01&VEN_8384&DEV_7680&SUBSYS_83847680&REV_1034\4&31e60982&0&0001\ConfigFlags,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\mfplat.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Media Foundation\Platform,SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Media Foundation\Platform\CallStackTracingNoisy,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\RTWorkQ.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\645a72a6-1657-53bb-d5e7-d6526033ef20,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\6b4e98da-b103-588e-d0db-c7a111582066,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\fbdc4594-a4a9-5f04-af86-7bd18a7938b9,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\905a29f8-4571-4926-9be1-cbffce287814,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{aab4bd70-e6bc-4d9a-9b10-262225ef9821},SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{aab4bd70-e6bc-4d9a-9b10-262225ef9821}\Properties,SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,"HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{aab4bd70-e6bc-4d9a-9b10-262225ef9821}\Properties\{12d83bd7-cf12-46be-8540-812710d3021c},1",NAME NOT FOUND,Length: 12
+44:58.3,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\AUDIOSES.DLL,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\AudioSes.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,Load Image,C:\Windows\SysWOW64\powrprof.dll,SUCCESS,"Image Base: 0x75070000, Image Size: 0x43000"
+44:58.3,1.exe,4080,Load Image,C:\Windows\SysWOW64\umpdc.dll,SUCCESS,"Image Base: 0x76fb0000, Image Size: 0xd000"
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\WinTypes.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\4e7add1a-6945-435a-82b6-612688ba9f57,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\767166e4-869c-5cc7-4f54-b13d12274111,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\c9f9ecd3-6d24-46d8-b23f-37b53fa6447b,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\9ac9593a-8e9e-5c4c-6407-43c56769851b,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\d375f14e-9624-5a18-f53e-5bce2043a97f,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\030fa765-f1ae-448e-955b-44d76073e1dc,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Rpc\Extensions,REPARSE,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Rpc\Extensions,SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Rpc\Extensions\NdrOleExtDLL,SUCCESS,"Type: REG_EXPAND_SZ, Length: 24, Data: combase.dll"
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Audio\IsRunningInVM,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegQueryValue,"HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{aab4bd70-e6bc-4d9a-9b10-262225ef9821}\Properties\{b3f8fa53-0004-438e-9003-51a46e139bfc},22",NAME NOT FOUND,Length: 12
+44:58.3,1.exe,4080,RegOpenKey,HKLM\Software\Microsoft\WindowsRuntime,SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId,SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow,SUCCESS,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\ActivationType,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\Server,NAME NOT FOUND,Length: 144
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\DllPath,SUCCESS,"Type: REG_SZ, Length: 70, Data: C:\Windows\System32\Windows.UI.dll"
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\Threading,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\TrustLevel,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\CustomAttributes,NAME NOT FOUND,Desired Access: Read
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\RemoteServer,NAME NOT FOUND,Length: 144
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\ActivateAsUser,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\ActivateInSharedBroker,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\ActivateInBrokerForMediumILContainer,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\Permissions,NAME NOT FOUND,Length: 140
+44:58.3,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\WindowsRuntime\ActivatableClassId\Windows.UI.Core.CoreWindow\ActivateOnHostFlags,NAME NOT FOUND,Length: 16
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\OLE\Diagnosis,REPARSE,Desired Access: Read
+44:58.3,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Ole\Diagnosis,NAME NOT FOUND,Desired Access: Read
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\Windows.UI.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\TextInputFramework.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\InputHost.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\CoreUIComponents.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\CoreMessaging.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,CreateFile,C:\Windows\SysWOW64\propsys.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\3720dda7-caea-4af3-a138-375aafc3f1d6,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\ebadf775-48aa-4bf3-8f8e-ec68d113c98e,NAME NOT FOUND,Length: 528
+44:58.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\32980f26-c8f5-5767-6b26-635b3fa83c61,NAME NOT FOUND,Length: 528
+44:58.4,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\6e7b1892-5288-5fe5-8f34-e3b0dc671fd2,NAME NOT FOUND,Length: 528
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\NodeCLSIDs,SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\NodeCLSIDs\{13A7995E-7D8F-45B4-9C77-819265225763},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\NodeCLSIDs\{95037DA1-6ED9-4B27-8CFF-9AD3DFB0B2F2},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\NodeCLSIDs\{974BF3BF-C9AE-4476-8003-5FE544DF458C},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\NodeCLSIDs\{D01BC8E2-70AD-4976-9612-21B37ED5C8E8},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\NodeCLSIDs\{D7E9C0B4-0E4D-46B4-BC46-1D0222F92C6F},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\NodeCLSIDs\{E5A8C40E-654B-44D4-ACBB-DBE6D3B3333B},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\NodeCLSIDs\{FB02E8EF-ACFE-4CC0-96DF-8B5C7098272C},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\Plugins,SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\Plugins\{47DEA830-D619-4154-B8D8-6B74845D6A2D},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\Plugins\{47DEA830-D619-4154-B8D8-6B74845D6A2D}\FriendlyName,SUCCESS,"Type: REG_SZ, Length: 16, Data: Effects"
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\Plugins\{48501FF0-F6A9-11D2-9435-00A0C92A2F2D},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\Plugins\{48501FF0-F6A9-11D2-9435-00A0C92A2F2D}\FriendlyName,SUCCESS,"Type: REG_SZ, Length: 10, Data: Bars"
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\Plugins\{93EB32F5-87B1-45AD-ACC6-0F2483DB83BB},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\Plugins\{93EB32F5-87B1-45AD-ACC6-0F2483DB83BB}\FriendlyName,SUCCESS,"Type: REG_SZ, Length: 36, Data: EqualizerSettings"
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\Plugins\{AE7BFAFE-DCC8-4A73-92C8-CC300CA88859},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\MediaPlayer\Plugins\{AE7BFAFE-DCC8-4A73-92C8-CC300CA88859}\FriendlyName,SUCCESS,"Type: REG_SZ, Length: 28, Data: VideoSettings"
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Policies\Microsoft\WindowsMediaPlayer\,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UseDefaultBufferTime,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Policies\Microsoft\WindowsMediaPlayer\Protocols\,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UseMulticast,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UseUDP,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UseCustomUDPPort,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UseTCP,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UseHTTP,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Policies\Microsoft\WindowsMediaPlayer\Protocols\HTTP,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\,SUCCESS,"Desired Access: Read/Write, Disposition: REG_CREATED_NEW_KEY"
+44:58.4,1.exe,4080,RegSetInfoKey,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings,SUCCESS,"KeySetInformationClass: KeySetHandleTagsInformation, Length: 0"
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646},NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\ActivateOnHostFlags,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\(Default),BUFFER OVERFLOW,Length: 12
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\InprocServer32,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\InprocServer32,SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\InProcServer32\InprocServer32,NAME NOT FOUND,Length: 12
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\InProcServer32\(Default),BUFFER OVERFLOW,Length: 12
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\InProcServer32\ThreadingModel,SUCCESS,"Type: REG_SZ, Length: 10, Data: Both"
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\AppID,NAME NOT FOUND,Length: 112
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{275C23E2-3747-11D0-9FEA-00AA003F8646}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\mlang.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\Windows Media\WMSDK\General,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\mfcore.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\mfcore.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.4,1.exe,4080,CreateFile,C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackzh-CN_18362.16.53.0_neutral__8wekyb3d8bbwe\Windows\System32\zh-CN\mfcore.dll.mui,NAME NOT FOUND,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\zh-CN\mfcore.dll.mui,NAME NOT FOUND,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,CreateFile,C:\Windows\System32\zh-CN\mfcore.dll.mui,NAME NOT FOUND,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\LanguageOverlay\OverlayPackages\zh-Hans,REPARSE,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\LanguageOverlay\OverlayPackages\zh-Hans,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\zh-HANS\mfcore.dll.mui,NAME NOT FOUND,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,CreateFile,C:\Windows\System32\zh-HANS\mfcore.dll.mui,NAME NOT FOUND,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\LanguageOverlay\OverlayPackages\zh,REPARSE,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\LanguageOverlay\OverlayPackages\zh,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\zh\mfcore.dll.mui,PATH NOT FOUND,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SYSTEM32\zh\mfcore.dll.mui,PATH NOT FOUND,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\LanguageOverlay\OverlayPackages\en-US,REPARSE,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\LanguageOverlay\OverlayPackages\en-US,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\en-US\mfcore.dll.mui,NAME NOT FOUND,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,CreateFile,C:\Windows\System32\en-US\MFCore.dll.mui,SUCCESS,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.4,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\540dc156-e9d6-42dc-a225-29794149a495,NAME NOT FOUND,Length: 528
+44:58.4,1.exe,4080,CreateFile,C:\,SUCCESS,"Desired Access: Synchronize, Disposition: Open, Options: Directory, Synchronous IO Non-Alert, Attributes: n/a, ShareMode: Read, Write, AllocationSize: n/a, OpenResult: Opened"
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Ole\MaximumAllowedAllocationSize,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\Windows Media,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: None 0x0, Disposition: REG_CREATED_NEW_KEY"
+44:58.4,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\Windows Media\WMSDK,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: None 0x0, Disposition: REG_CREATED_NEW_KEY"
+44:58.4,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\Windows Media\WMSDK\General\UniqueID,SUCCESS,"Type: REG_SZ, Length: 78, Data: {6C053897-7722-4B8D-B133-E39E810A483C}"
+44:58.4,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\Windows Media\WMSDK\General\ComputerName,SUCCESS,"Type: REG_SZ, Length: 32, Data: DESKTOP-SLTEQRK"
+44:58.4,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\Windows Media\WMSDK\General\VolumeSerialNumber,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 2935435088"
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\MediaPlayer\Player\Settings,SUCCESS,Desired Access: Read/Write
+44:58.4,1.exe,4080,RegDeleteValue,HKCU\Software\Microsoft\MediaPlayer\Player\Settings\Client ID,SUCCESS,
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\WINMM.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\winmm.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\WINMMBASE.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\winmmbase.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.4,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\Windows Media\WMSDK\General\ThreadAffinityMask,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054},NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\ActivateOnHostFlags,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\(Default),BUFFER OVERFLOW,Length: 12
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\InprocServer32,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\InprocServer32,SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\InprocServer32\InprocServer32,NAME NOT FOUND,Length: 12
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\InprocServer32\(Default),BUFFER OVERFLOW,Length: 12
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\InprocServer32\ThreadingModel,SUCCESS,"Type: REG_SZ, Length: 10, Data: Both"
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\AppID,NAME NOT FOUND,Length: 112
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{CD12A3CE-9C42-11D2-BEED-0060082F2054}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\WMNetMgr.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.4,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\63770680-05f1-47e0-928a-9acfdcf52147,NAME NOT FOUND,Length: 528
+44:58.4,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows Media\Platform\Threads,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{203B1EED-DB9F-40FB-87BD-1990982017D2},NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{203B1EED-DB9F-40FB-87BD-1990982017D2},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\ActivateOnHostFlags,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\(Default),BUFFER OVERFLOW,Length: 12
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\InprocServer32,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\InprocServer32,SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\InprocServer32\InprocServer32,NAME NOT FOUND,Length: 12
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\InprocServer32\(Default),BUFFER OVERFLOW,Length: 12
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\InprocServer32\ThreadingModel,SUCCESS,"Type: REG_SZ, Length: 10, Data: Both"
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\AppID,NAME NOT FOUND,Length: 112
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{203b1eed-db9f-40fb-87bd-1990982017d2}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,Load Image,C:\Windows\SysWOW64\shell32.dll,SUCCESS,"Image Base: 0x75540000, Image Size: 0x578000"
+44:58.4,1.exe,4080,Load Image,C:\Windows\SysWOW64\windows.storage.dll,SUCCESS,"Image Base: 0x768d0000, Image Size: 0x5c4000"
+44:58.4,1.exe,4080,Load Image,C:\Windows\SysWOW64\profapi.dll,SUCCESS,"Image Base: 0x76fc0000, Image Size: 0x17000"
+44:58.4,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\30336ed4-e327-447c-9de0-51b652c86108,NAME NOT FOUND,Length: 528
+44:58.4,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\a40b455c-253c-4311-ac6d-6e667edccefc,NAME NOT FOUND,Length: 528
+44:58.4,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions,SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\Category,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 4"
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\Name,SUCCESS,"Type: REG_SZ, Length: 28, Data: Local AppData"
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\ParentFolder,NAME NOT FOUND,Length: 90
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\Description,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\RelativePath,SUCCESS,"Type: REG_SZ, Length: 28, Data: AppData\Local"
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\ParsingName,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\InfoTip,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\LocalizedName,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\Icon,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\Security,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\StreamResource,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\StreamResourceType,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\LocalRedirectOnly,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\Roamable,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\PreCreate,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\Stream,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\PublishExpandedPath,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\DefinitionFlags,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\Attributes,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\FolderTypeID,NAME NOT FOUND,Length: 90
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\InitFolderHandler,NAME NOT FOUND,Length: 90
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{F1B32785-6FBA-4FCF-9D55-7B8E7F157091}\PropertyBag,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer,SUCCESS,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1,SUCCESS,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\SessionInfo\1\KnownFolders,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders,SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders\Local AppData,SUCCESS,"Type: REG_EXPAND_SZ, Length: 56, Data: %USERPROFILE%\AppData\Local"
+44:58.4,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Policies\Microsoft\Windows\Explorer,REPARSE,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Explorer,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKCU\Software\Policies\Microsoft\Windows\Explorer,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173},SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\Category,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 2"
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\Name,SUCCESS,"Type: REG_SZ, Length: 16, Data: Profile"
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\ParentFolder,NAME NOT FOUND,Length: 90
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\Description,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\RelativePath,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\ParsingName,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\InfoTip,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\LocalizedName,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\Icon,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\Security,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\StreamResource,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\StreamResourceType,NAME NOT FOUND,Length: 144
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\LocalRedirectOnly,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\Roamable,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\PreCreate,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\Stream,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\PublishExpandedPath,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\DefinitionFlags,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\Attributes,NAME NOT FOUND,Length: 16
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\FolderTypeID,NAME NOT FOUND,Length: 90
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\InitFolderHandler,NAME NOT FOUND,Length: 90
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{5E6C858F-0E22-4760-9AFE-EA3317B67173}\PropertyBag,NAME NOT FOUND,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-21-868303909-713215063-1058131251-1001,REPARSE,Desired Access: Read
+44:58.4,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-21-868303909-713215063-1058131251-1001,SUCCESS,Desired Access: Read
+44:58.4,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-21-868303909-713215063-1058131251-1001\ProfileImagePath,BUFFER OVERFLOW,Length: 12
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable,NAME COLLISION,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Create, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: N, ShareMode: Read, Write, AllocationSize: 0"
+44:58.4,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\KnownFolderSettings,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\AppData\Local,NAME COLLISION,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Create, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: N, ShareMode: Read, Write, AllocationSize: 0"
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\AppData\Local\Microsoft,NAME COLLISION,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Create, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: N, ShareMode: Read, Write, AllocationSize: 0"
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\AppData\Local\Microsoft\Windows Media,SUCCESS,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Create, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: N, ShareMode: Read, Write, AllocationSize: 0, OpenResult: Created"
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\VERSION.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\version.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\AppData\Local\Microsoft\Windows Media\12.0,SUCCESS,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Create, Options: Directory, Synchronous IO Non-Alert, Open Reparse Point, Attributes: N, ShareMode: Read, Write, AllocationSize: 0, OpenResult: Created"
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\AppData\Local\Microsoft\Windows Media\12.0\WMSDKNS.XML,SUCCESS,"Desired Access: Generic Write, Read Attributes, Disposition: Create, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Write, AllocationSize: 0, OpenResult: Created"
+44:58.4,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\Windows Media\WMSDK\Namespace,SUCCESS,"Desired Access: Read/Write, Disposition: REG_CREATED_NEW_KEY"
+44:58.4,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\Windows Media\WMSDK\Namespace\LocalBase,SUCCESS,"Type: REG_SZ, Length: 148, Data: C:\Users\vegetable\AppData\Local\Microsoft\Windows Media\12.0\WMSDKNS.XML"
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\AppData\Local\Microsoft\Windows Media\12.0\WMSDKNS.DTD,SUCCESS,"Desired Access: Generic Write, Read Attributes, Disposition: Create, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Write, AllocationSize: 0, OpenResult: Created"
+44:58.4,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\Windows Media\WMSDK\Namespace\DTDFile,SUCCESS,"Type: REG_SZ, Length: 148, Data: C:\Users\vegetable\AppData\Local\Microsoft\Windows Media\12.0\WMSDKNS.DTD"
+44:58.4,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\Windows Media\WMSDK\Namespace\LocalDelta,SUCCESS,"Type: REG_SZ, Length: 150, Data: C:\Users\vegetable\AppData\Local\Microsoft\Windows Media\12.0\WMSDKNSD.XML"
+44:58.4,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\Windows Media\WMSDK\Namespace\RemoteDelta,SUCCESS,"Type: REG_SZ, Length: 150, Data: C:\Users\vegetable\AppData\Local\Microsoft\Windows Media\12.0\WMSDKNSR.XML"
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\AppData\Local\Microsoft\Windows Media\12.0\WMSDKNS.XML.done,NAME NOT FOUND,"Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a"
+44:58.4,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\msxml3.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\msxml3.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.4,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Msxml30,NAME NOT FOUND,Desired Access: Query Value
+44:58.4,1.exe,4080,CreateFile,C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackzh-CN_18362.16.53.0_neutral__8wekyb3d8bbwe\Windows\System32\zh-CN\KernelBase.dll.mui,SUCCESS,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.4,1.exe,4080,CreateFile,C:\Windows\SysWOW64\msxml3r.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.5,1.exe,4080,CreateFile,C:\Users\vegetable\AppData\Local\Microsoft\Windows Media\12.0\WMSDKNSD.XML,NAME NOT FOUND,"Desired Access: Generic Read, Disposition: Open, Options: Sequential Access, Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a"
+44:58.5,1.exe,4080,CreateFile,C:\Users\vegetable\AppData\Local\Microsoft\Windows Media\12.0\WMSDKNSR.XML,NAME NOT FOUND,"Desired Access: Generic Read, Disposition: Open, Options: Sequential Access, Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a"
+44:58.5,1.exe,4080,CreateFile,C:\Users\vegetable\AppData\Local\Microsoft\Windows Media\12.0\WMSDKNS.XML.bak,NAME NOT FOUND,"Desired Access: Read Attributes, Delete, Disposition: Open, Options: Non-Directory File, Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Policies\Microsoft\Windows\System,REPARSE,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\System,SUCCESS,Desired Access: Query Value
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Policies\Microsoft\Windows\System\CopyFileBufferedSynchronousIo,NAME NOT FOUND,Length: 20
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Policies\Microsoft\Windows\System\CopyFileChunkSize,NAME NOT FOUND,Length: 20
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Policies\Microsoft\Windows\System\CopyFileOverlappedCount,NAME NOT FOUND,Length: 20
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\Windows Media\WMSDK\Namespace\FlushInterval,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,Load Image,C:\Windows\SysWOW64\ws2_32.dll,SUCCESS,"Image Base: 0x767b0000, Image Size: 0x5e000"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\d0f1a5c6-fc43-48ae-99bf-efb1c38be9d1,NAME NOT FOUND,Length: 528
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters,REPARSE,Desired Access: All Access
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\WinSock_Registry_Version,BUFFER OVERFLOW,Length: 16
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\AppId_Catalog,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\AppId_Catalog\332DD8EE,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Callout,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Serial_Access_Num,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 11"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\0000000B,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Next_Catalog_Entry_ID,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1015"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Num_Catalog_Entries,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 14"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000001,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000001\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000002,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000002\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000003,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000003\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000004,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000004\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000005,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000005\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000006,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000006\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000007,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000007\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000008,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000008\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000009,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000009\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000010,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000010\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000011,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000011\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000012,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000012\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000013,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000013\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000014,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\000000000014\PackedCatalogItem,BUFFER OVERFLOW,Length: 144
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Serial_Access_Num,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 22"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\00000016,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Num_Catalog_Entries,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 7"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001\LibraryPath,SUCCESS,"Type: REG_SZ, Length: 68, Data: %SystemRoot%\system32\napinsp.dll"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001\DisplayString,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001\ProviderId,SUCCESS,"Type: REG_BINARY, Length: 16, Data: A2 CB 4A 96 BC B2 EB 40 8C 6A A6 DB 40 16 1C AE"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001\AddressFamily,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001\SupportedNameSpace,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 37"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001\Enabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001\Version,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001\StoresServiceClassInfo,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000001\ProviderInfo,SUCCESS,"Type: REG_BINARY, Length: 0"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002\LibraryPath,SUCCESS,"Type: REG_SZ, Length: 68, Data: %SystemRoot%\system32\pnrpnsp.dll"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002\DisplayString,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002\ProviderId,SUCCESS,"Type: REG_BINARY, Length: 16, Data: CE 89 FE 03 6D 76 76 49 B9 C1 BB 9B C4 2C 7B 4D"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002\AddressFamily,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002\SupportedNameSpace,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 39"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002\Enabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002\Version,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002\StoresServiceClassInfo,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000002\ProviderInfo,SUCCESS,"Type: REG_BINARY, Length: 0"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003\LibraryPath,SUCCESS,"Type: REG_SZ, Length: 68, Data: %SystemRoot%\system32\pnrpnsp.dll"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003\DisplayString,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003\ProviderId,SUCCESS,"Type: REG_BINARY, Length: 16, Data: CD 89 FE 03 6D 76 76 49 B9 C1 BB 9B C4 2C 7B 4D"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003\AddressFamily,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003\SupportedNameSpace,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 38"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003\Enabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003\Version,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003\StoresServiceClassInfo,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000003\ProviderInfo,SUCCESS,"Type: REG_BINARY, Length: 0"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004\LibraryPath,SUCCESS,"Type: REG_SZ, Length: 68, Data: %SystemRoot%\System32\mswsock.dll"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004\DisplayString,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004\ProviderId,SUCCESS,"Type: REG_BINARY, Length: 16, Data: 40 9D 05 22 9E 7E CF 11 AE 5A 00 AA 00 A7 11 2B"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004\AddressFamily,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004\SupportedNameSpace,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 12"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004\Enabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004\Version,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004\StoresServiceClassInfo,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000004\ProviderInfo,SUCCESS,"Type: REG_BINARY, Length: 0"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005\LibraryPath,SUCCESS,"Type: REG_SZ, Length: 66, Data: %SystemRoot%\System32\winrnr.dll"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005\DisplayString,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005\ProviderId,SUCCESS,"Type: REG_BINARY, Length: 16, Data: EE 37 26 3B 80 E5 CF 11 A5 55 00 C0 4F D8 D4 AC"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005\AddressFamily,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005\SupportedNameSpace,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 32"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005\Enabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005\Version,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005\StoresServiceClassInfo,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000005\ProviderInfo,SUCCESS,"Type: REG_BINARY, Length: 0"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006\LibraryPath,SUCCESS,"Type: REG_SZ, Length: 66, Data: %SystemRoot%\system32\NLAapi.dll"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006\DisplayString,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006\ProviderId,SUCCESS,"Type: REG_BINARY, Length: 16, Data: 3A 24 42 66 A8 3B A6 4A BA A5 2E 0B D7 1F DD 83"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006\AddressFamily,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006\SupportedNameSpace,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 15"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006\Enabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006\Version,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006\StoresServiceClassInfo,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000006\ProviderInfo,SUCCESS,"Type: REG_BINARY, Length: 0"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000007,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000007\LibraryPath,SUCCESS,"Type: REG_SZ, Length: 66, Data: %SystemRoot%\system32\wshbth.dll"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000007\DisplayString,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000007\ProviderId,SUCCESS,"Type: REG_BINARY, Length: 16, Data: E0 63 AA 06 60 7D FF 41 AF B2 3E E6 D2 D9 39 2D"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000007\AddressFamily,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000007\SupportedNameSpace,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 16"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000007\Enabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000007\Version,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000007\StoresServiceClassInfo,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\000000000007\ProviderInfo,SUCCESS,"Type: REG_BINARY, Length: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Ws2_32NumHandleBuckets,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows Media\MediaFoundation,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3},NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3},SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\ActivateOnHostFlags,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\(Default),BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\InprocServer32,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\InprocServer32,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\InprocServer32\InprocServer32,NAME NOT FOUND,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\InprocServer32\(Default),BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\InprocServer32\ThreadingModel,SUCCESS,"Type: REG_SZ, Length: 10, Data: Both"
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\AppID,NAME NOT FOUND,Length: 112
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{566A2EFF-5651-4020-AC1A-EB48E4571EA3}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\Windows Media\WMSDK\DisablePasswordCaching,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\HTTP,SUCCESS,"Desired Access: Read/Write, Disposition: REG_CREATED_NEW_KEY"
+44:58.5,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\HTTP\ProxyStyle,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\HTTP\ProxyName,SUCCESS,"Type: REG_SZ, Length: 2, Data: "
+44:58.5,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\HTTP\ProxyPort,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 80"
+44:58.5,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\HTTP\ProxyBypass,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\HTTP\ProxyExclude,SUCCESS,"Type: REG_SZ, Length: 2, Data: "
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Policies\Microsoft\WindowsMediaPlayer\Protocols\RTSP,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{AD763FA6-3B90-41AB-BD44-4F832BEEE55F},NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{AD763FA6-3B90-41AB-BD44-4F832BEEE55F},SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\ActivateOnHostFlags,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\(Default),BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\InprocServer32,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\InprocServer32,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\InprocServer32\InprocServer32,NAME NOT FOUND,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\InprocServer32\(Default),BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\InprocServer32\ThreadingModel,SUCCESS,"Type: REG_SZ, Length: 10, Data: Both"
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\AppID,NAME NOT FOUND,Length: 112
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{ad763fa6-3b90-41ab-bd44-4f832beee55f}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\EnableNegotiate,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\secur32.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.5,1.exe,4080,CreateFile,C:\Windows\SysWOW64\secur32.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Hvsi,REPARSE,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Hvsi\IsHvsiContainer,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\SecurityProviders,REPARSE,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\SecurityProviders\SecurityProviders,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Lsa\SspiCache,REPARSE,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Lsa\SspiCache\credssp.dll,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Lsa\SspiCache\credssp.dll\Name,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Lsa\SspiCache\credssp.dll\Comment,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Lsa\SspiCache\credssp.dll\Capabilities,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 8455987"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Lsa\SspiCache\credssp.dll\RpcId,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 65535"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Lsa\SspiCache\credssp.dll\Version,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Lsa\SspiCache\credssp.dll\Type,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 33"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Lsa\SspiCache\credssp.dll\TokenSize,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 73032"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\SecurityProviders\SaslProfiles,REPARSE,Desired Access: Read
+44:58.5,1.exe,4080,CreateFile,C:\Windows\SysWOW64\msv1_0.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.5,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\NtlmShared.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.5,1.exe,4080,CreateFile,C:\Windows\SysWOW64\NtlmShared.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.5,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\cryptdll.dll,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.5,1.exe,4080,CreateFile,C:\Windows\SysWOW64\cryptdll.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\77811378-e885-4ac2-a580-bc86e4f1bc93,NAME NOT FOUND,Length: 528
+44:58.5,1.exe,4080,CreateFile,C:\Windows\SysWOW64\wdigest.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.5,1.exe,4080,RegCreateKey,HKLM\System\CurrentControlSet\Control\SecurityProviders\WDigest,REPARSE,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\SecurityProviders\WDigest\Negotiate,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\SecurityProviders\WDigest\UTF8HTTP,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\SecurityProviders\WDigest\UTF8SASL,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\SecurityProviders\WDigest\ServerCompat,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\SecurityProviders\WDigest\ClientCompat,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\SecurityProviders\WDigest\DisableNameRealmValidation,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\SecurityProviders\WDigest\Debuglevel,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Defaults\Provider Types\Type 001,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Defaults\Provider Types\Type 001\Name,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Defaults\Provider\Microsoft Strong Cryptographic Provider,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Defaults\Provider\Microsoft Strong Cryptographic Provider\Type,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Defaults\Provider\Microsoft Strong Cryptographic Provider\Image Path,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,CreateFile,C:\Windows\SysWOW64\rsaenh.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.5,1.exe,4080,RegOpenKey,HKLM\Software\Policies\Microsoft\Cryptography,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Policies\Microsoft\Cryptography\PrivKeyCacheMaxItems,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Policies\Microsoft\Cryptography\PrivKeyCachePurgeIntervalSeconds,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Policies\Microsoft\Cryptography\PrivateKeyLifetimeSeconds,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegOpenKey,HKLM\Software\Microsoft\Cryptography,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Cryptography\MachineGuid,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Cryptography\Offload,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Defaults\Provider Types\Type 024,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Defaults\Provider Types\Type 024\Name,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced RSA and AES Cryptographic Provider,SUCCESS,Desired Access: Read
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced RSA and AES Cryptographic Provider\Type,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 24"
+44:58.5,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Defaults\Provider\Microsoft Enhanced RSA and AES Cryptographic Provider\Image Path,BUFFER OVERFLOW,Length: 12
+44:58.5,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Cryptography\DESHashSessionKeyBackward,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\RTSP,SUCCESS,"Desired Access: Read/Write, Disposition: REG_CREATED_NEW_KEY"
+44:58.5,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\RTSP\ProxyStyle,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\RTSP\ProxyName,SUCCESS,"Type: REG_SZ, Length: 2, Data: "
+44:58.5,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\RTSP\ProxyPort,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 554"
+44:58.5,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\RTSP\ProxyBypass,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.5,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ProxySettings\RTSP\ProxyExclude,SUCCESS,"Type: REG_SZ, Length: 2, Data: "
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\MaxBandwidth,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\SilentAcquisition,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\LastGSMShowSounds,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\CurrentEffectType,NAME NOT FOUND,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\CurrentEffectPreset,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\VideoZoom,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ShrinkToFit,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\StretchToFit,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ShowEffects,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\MediaPlayer\Player\Tasks\NowPlaying\,NAME NOT FOUND,Desired Access: Read/Write
+44:58.5,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\MediaPlayer\Player,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: All Access, Disposition: REG_OPENED_EXISTING_KEY"
+44:58.5,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\MediaPlayer\Player\Tasks,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: None 0x0, Disposition: REG_CREATED_NEW_KEY"
+44:58.5,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\MediaPlayer\Player\Tasks\NowPlaying,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: None 0x0, Disposition: REG_CREATED_NEW_KEY"
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Player\Tasks\NowPlaying\ShowHorizontalSeparator,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Player\Tasks\NowPlaying\PlaylistWidth,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Player\Tasks\NowPlaying\PlaylistHeight,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Player\Tasks\NowPlaying\SettingsWidth,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Player\Tasks\NowPlaying\MetadataWidth,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Player\Tasks\NowPlaying\MetadataHeight,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Player\Tasks\NowPlaying\CaptionsHeight,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Player\Tasks\NowPlaying\InitFlags,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ShowTitles,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ShowCaptions,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\NowPlayingPlaylist,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\NowPlayingMetadata,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\NowPlayingSettings,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\NowPlayingQuickHide,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\CurrentDisplayView,NAME NOT FOUND,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\CurrentSettingsView,NAME NOT FOUND,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\CurrentMetadataView,NAME NOT FOUND,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UserDisplayView,NAME NOT FOUND,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UserWMPDisplayView,NAME NOT FOUND,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UserWMPSettingsView,NAME NOT FOUND,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UserWMPMetadataView,NAME NOT FOUND,Length: 12
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\CurrentDisplayPreset,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\CurrentSettingsPreset,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\CurrentMetadataPreset,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UserDisplayPreset,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UserWMPDisplayPreset,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UserWMPSettingsPreset,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UserWMPShowSettings,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UserWMPMetadataPreset,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\UserWMPShowMetadata,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ShowAlbumArt,NAME NOT FOUND,Length: 16
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{00000346-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{00000346-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\CLSID\{00000346-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\CLSID\{00000346-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\PackagedCom,NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{0000034B-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{0000034B-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\CLSID\{0000034B-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCR\CLSID\{0000034B-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: All Access"
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6},NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCR\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6},SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCR\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\804,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCR\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\804,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\4,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCR\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\4,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\0,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCR\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\0,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\0\win32,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCR\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\0\win32,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegQueryValue,HKCR\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\0\win32\(Default),SUCCESS,"Type: REG_EXPAND_SZ, Length: 60, Data: %SystemRoot%\system32\wmp.dll"
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{00020430-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCR\TypeLib\{00020430-0000-0000-C000-000000000046},SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{00020430-0000-0000-C000-000000000046}\2.0,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCR\TypeLib\{00020430-0000-0000-C000-000000000046}\2.0,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{00020430-0000-0000-C000-000000000046}\2.0\0,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCR\TypeLib\{00020430-0000-0000-C000-000000000046}\2.0\0,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{00020430-0000-0000-C000-000000000046}\2.0\0\win32,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.5,1.exe,4080,RegOpenKey,HKCR\TypeLib\{00020430-0000-0000-C000-000000000046}\2.0\0\win32,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:58.5,1.exe,4080,RegQueryValue,HKCR\TypeLib\{00020430-0000-0000-C000-000000000046}\2.0\0\win32\(Default),SUCCESS,"Type: REG_SZ, Length: 64, Data: C:\Windows\SysWOW64\stdole2.tlb"
+44:58.5,1.exe,4080,CreateFile,C:\Windows\SysWOW64\stdole2.tlb,SUCCESS,"Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Random Access, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.6,1.exe,4080,CreateFile,C:\Windows\SystemResources\wmploc.DLL.mun,SUCCESS,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.6,1.exe,4080,CreateFile,C:\Windows\SysWOW64\tzres.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.6,1.exe,4080,CreateFile,C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackzh-CN_18362.16.53.0_neutral__8wekyb3d8bbwe\Windows\System32\zh-CN\tzres.dll.mui,SUCCESS,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\JScript\CLSID,NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\JScript\CLSID,SUCCESS,Desired Access: Read
+44:58.6,1.exe,4080,RegQueryValue,HKCR\JScript\CLSID\(Default),BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\ScriptDebugging,NAME NOT FOUND,Length: 16
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{F414C260-6AC0-11CF-B6D1-00AA00BBBB58},NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{F414C260-6AC0-11CF-B6D1-00AA00BBBB58},SUCCESS,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:58.6,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\ActivateOnHostFlags,NAME NOT FOUND,Length: 16
+44:58.6,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\(Default),BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32,NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32,SUCCESS,Desired Access: Read
+44:58.6,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32\InprocServer32,NAME NOT FOUND,Length: 12
+44:58.6,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32\(Default),BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocServer32\ThreadingModel,SUCCESS,"Type: REG_SZ, Length: 10, Data: Both"
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\AppID,NAME NOT FOUND,Length: 112
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{f414c260-6ac0-11cf-b6d1-00aa00bbbb58}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,CreateFile,C:\Windows\SysWOW64\jscript.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.6,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Script\Features,NAME NOT FOUND,Desired Access: Query Value
+44:58.6,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows Script\Settings,NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,CreateFile,C:\Windows\SysWOW64\amsi.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.6,1.exe,4080,CreateFile,C:\Windows\SysWOW64\userenv.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.6,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\7a01e7fb-b6a4-4585-b1a8-ea2094ecb4c5,NAME NOT FOUND,Length: 528
+44:58.6,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\AMSI\Providers,SUCCESS,"Desired Access: Query Value, Enumerate Sub Keys"
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\InprocServer32,SUCCESS,Desired Access: Query Value
+44:58.6,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\InprocServer32\(Default),SUCCESS,"Type: REG_EXPAND_SZ, Length: 88, Data: ""%ProgramFiles%\Windows Defender\MpOav.dll"""
+44:58.6,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\ProfileList,REPARSE,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList,SUCCESS,Desired Access: Read
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\ProgramData,BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\Public,BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Session Manager\Environment,REPARSE,Desired Access: Read
+44:58.6,1.exe,4080,CreateFile,C:\Windows\Temp,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\Default,BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows\CurrentVersion,SUCCESS,Desired Access: Read
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\ProgramFilesDir,BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\CommonFilesDir,BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\ProgramFilesDir (x86),BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\CommonFilesDir (x86),BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\ProgramW6432Dir,BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\CommonW6432Dir,BUFFER OVERFLOW,Length: 12
+44:58.6,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\AMSI,SUCCESS,Desired Access: Query Value
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\AMSI\FeatureBits,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:58.6,1.exe,4080,CreateFile,C:\Program Files (x86)\Windows Defender\MpOAV.dll,SUCCESS,"Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: N, ShareMode: Read, AllocationSize: n/a, OpenResult: Opened"
+44:58.6,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\COM3,REPARSE,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{00000323-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{00000323-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\CLSID\{00000323-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\CLSID\{00000323-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{6C736DB1-BD94-11D0-8A23-00AA00B58E10},NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{6C736DB1-BD94-11D0-8A23-00AA00B58E10},NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\CLSID\{6C736DB1-BD94-11D0-8A23-00AA00B58E10},NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\CLSID\{6C736DB1-BD94-11D0-8A23-00AA00B58E10},NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Policies\Microsoft\Windows\Appx,SUCCESS,Desired Access: Read
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Policies\Microsoft\Windows\Appx\AllowDevelopmentWithoutDevLicense,NAME NOT FOUND,Length: 24
+44:58.6,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock,SUCCESS,Desired Access: Read
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock\AllowDevelopmentWithoutDevLicense,NAME NOT FOUND,Length: 24
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\AppID\1.exe,NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\AppID\1.exe,NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\OLE\AppCompat,REPARSE,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Ole\AppCompat,SUCCESS,Desired Access: Read
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Ole\AppCompat\RaiseDefaultAuthnLevel,NAME NOT FOUND,Length: 16
+44:58.6,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Microsoft\Ole\DefaultAccessPermission,NAME NOT FOUND,Length: 144
+44:58.6,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Lsa\AnonymousAppContainerImpersonationLevelCheck,NAME NOT FOUND,Length: 80
+44:58.6,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Lsa\EveryoneIncludesAnonymous,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\Interface\{00000134-0000-0000-C000-000000000046},NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\Interface\{00000134-0000-0000-C000-000000000046},SUCCESS,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\Interface\{00000134-0000-0000-C000-000000000046}\ProxyStubClsid32,NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\Interface\{00000134-0000-0000-C000-000000000046}\ProxyStubClsid32,SUCCESS,Desired Access: Read
+44:58.6,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\Interface\{00000134-0000-0000-C000-000000000046}\ProxyStubClsid32\(Default),SUCCESS,"Type: REG_SZ, Length: 78, Data: {00000320-0000-0000-C000-000000000046}"
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\409,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.6,1.exe,4080,RegOpenKey,HKCR\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\409,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\9,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.6,1.exe,4080,RegOpenKey,HKCR\TypeLib\{6BF52A50-394A-11D3-B153-00C04F79FAA6}\1.0\9,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:58.6,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\MediaPlayer\Preferences\NumericAccNames,NAME NOT FOUND,Length: 16
+44:58.6,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\MediaPlayer\Player\Skins\res://wmploc/RT_TEXT/OCXLayoutFull.wsz,NAME NOT FOUND,Desired Access: Read
+44:58.6,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\Sorting\Ids\en-US,NAME NOT FOUND,Length: 90
+44:58.6,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\Nls\Sorting\Ids\en,NAME NOT FOUND,Length: 90
+44:58.7,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\1,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.7,1.exe,4080,CreateFile,C:\Users\vegetable\Desktop\explorer.exe,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:58.7,1.exe,4080,CreateFile,C:\Windows\SysWOW64\explorer.exe,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:58.7,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\explorer.exe,NAME NOT FOUND,"Desired Access: Query Value, Enumerate Sub Keys"
+44:58.7,1.exe,4080,RegOpenKey,HKLM\Software\Microsoft\Wow64\x86\xtajit,NAME NOT FOUND,Desired Access: Query Value
+44:58.7,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-868303909-713215063-1058131251-1001,SUCCESS,Desired Access: All Access
+44:58.7,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-868303909-713215063-1058131251-1001\\Device\HarddiskVolume2\Windows\SysWOW64\explorer.exe,NAME NOT FOUND,Length: 40
+44:58.7,1.exe,4080,RegOpenKey,HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\BAM,REPARSE,Desired Access: Query Value
+44:58.7,1.exe,4080,RegOpenKey,HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls,REPARSE,Desired Access: Query Value
+44:58.7,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\AuthenticodeEnabled,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:58.7,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\Windows NT\CurrentVersion,SUCCESS,Desired Access: Enumerate Sub Keys
+44:58.7,1.exe,4080,RegOpenKey,HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers,NAME NOT FOUND,Desired Access: Query Value
+44:58.7,1.exe,4080,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers,NAME NOT FOUND,Desired Access: Read
+44:58.7,1.exe,4080,RegOpenKey,HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Custom\explorer.exe,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,CreateFile,C:\Windows\SysWOW64\userinit.exe,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WScript.Shell,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WScript.Shell,SUCCESS,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WScript.Shell\CLSID,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WScript.Shell\CLSID,SUCCESS,Desired Access: Read
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WScript.Shell\CLSID\(Default),SUCCESS,"Type: REG_SZ, Length: 78, Data: {72C24DD5-D70A-438B-8A42-98424B88AFB8}"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8},NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8},SUCCESS,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\ActivateOnHostFlags,NAME NOT FOUND,Length: 16
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\(Default),BUFFER OVERFLOW,Length: 12
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\InprocServer32,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\InprocServer32,SUCCESS,Desired Access: Read
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\InProcServer32\InprocServer32,NAME NOT FOUND,Length: 12
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\InProcServer32\(Default),BUFFER OVERFLOW,Length: 12
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\InProcServer32\ThreadingModel,SUCCESS,"Type: REG_SZ, Length: 20, Data: Apartment"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\AppID,NAME NOT FOUND,Length: 112
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{72C24DD5-D70A-438B-8A42-98424B88AFB8}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,CreateFile,C:\Windows\SysWOW64\wshom.ocx,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:59.0,1.exe,4080,CreateFile,C:\Windows\SysWOW64\mpr.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:59.0,1.exe,4080,CreateFile,C:\Windows\SysWOW64\scrrun.dll,SUCCESS,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:59.0,1.exe,4080,RegOpenKey,HKLM\system\CurrentControlSet\control\NetworkProvider\HwOrder,REPARSE,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKLM\system\CurrentControlSet\control\NetworkProvider\ProviderOrder,REPARSE,Desired Access: Read
+44:59.0,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\5eb60b36-6206-5538-e60a-0a7af8a1e59d,NAME NOT FOUND,Length: 528
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228},NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228},SUCCESS,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\TreatAs,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\ActivateOnHostFlags,NAME NOT FOUND,Length: 16
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\(Default),BUFFER OVERFLOW,Length: 12
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\InprocServer32,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\InprocServer32,SUCCESS,Desired Access: Read
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\InprocServer32\InprocServer32,NAME NOT FOUND,Length: 12
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\InprocServer32\(Default),BUFFER OVERFLOW,Length: 12
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\InprocServer32\ThreadingModel,SUCCESS,"Type: REG_SZ, Length: 10, Data: Both"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\InprocHandler32,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\InprocHandler,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\LocalServer32,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegQueryValue,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\AppID,NAME NOT FOUND,Length: 112
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\LocalServer,NAME NOT FOUND,Desired Access: Query Value
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCR\WOW6432Node\CLSID\{0D43FE01-F093-11CF-8940-00A0C9054228}\Elevation,NAME NOT FOUND,Desired Access: Read
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{420B2830-E718-11CF-893D-00A0C9054228},NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCR\TypeLib\{420B2830-E718-11CF-893D-00A0C9054228},SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{420B2830-E718-11CF-893D-00A0C9054228}\1.0,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCR\TypeLib\{420B2830-E718-11CF-893D-00A0C9054228}\1.0,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{420B2830-E718-11CF-893D-00A0C9054228}\1.0\0,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCR\TypeLib\{420B2830-E718-11CF-893D-00A0C9054228}\1.0\0,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{420B2830-E718-11CF-893D-00A0C9054228}\1.0\0\win32,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCR\TypeLib\{420B2830-E718-11CF-893D-00A0C9054228}\1.0\0\win32,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:59.0,1.exe,4080,RegQueryValue,HKCR\TypeLib\{420B2830-E718-11CF-893D-00A0C9054228}\1.0\0\win32\(Default),SUCCESS,"Type: REG_SZ, Length: 62, Data: C:\Windows\SysWOW64\scrrun.dll"
+44:59.0,1.exe,4080,CreateFile,C:\Lotto.exe,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B},NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCR\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B},SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}\1.0,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCR\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}\1.0,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}\1.0\409,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCR\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}\1.0\409,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}\1.0\9,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCR\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}\1.0\9,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}\1.0\0,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCR\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}\1.0\0,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}\1.0\0\win32,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCR\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}\1.0\0\win32,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:59.0,1.exe,4080,RegQueryValue,HKCR\TypeLib\{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}\1.0\0\win32\(Default),SUCCESS,"Type: REG_SZ, Length: 60, Data: C:\Windows\SysWOW64\wshom.ocx"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.reg,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegOpenKey,HKCR,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read"
+44:59.0,1.exe,4080,RegCreateKey,HKCR\.reg,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.0,1.exe,4080,RegSetValue,HKCR\.reg\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.key,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegCreateKey,HKCR\.key,ACCESS DENIED,Desired Access: Set Value
+44:59.0,1.exe,4080,CreateFile,C:\Program Files\WindowsApps\Microsoft.LanguageExperiencePackzh-CN_18362.16.53.0_neutral__8wekyb3d8bbwe\Windows\System32\zh-CN\wshom.ocx.mui,NAME NOT FOUND,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:59.0,1.exe,4080,CreateFile,C:\Windows\SysWOW64\zh-CN\wshom.ocx.mui,NAME NOT FOUND,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a"
+44:59.0,1.exe,4080,CreateFile,C:\Windows\System32\zh-CN\wshom.ocx.mui,SUCCESS,"Desired Access: Read Data/List Directory, Synchronize, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Delete, AllocationSize: n/a, OpenResult: Opened"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.com,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegCreateKey,HKCR\.com,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.0,1.exe,4080,RegSetValue,HKCR\.com\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.bat,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegCreateKey,HKCR\.bat,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.0,1.exe,4080,RegSetValue,HKCR\.bat\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.cmd,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegCreateKey,HKCR\.cmd,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.0,1.exe,4080,RegSetValue,HKCR\.cmd\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.vbs,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegCreateKey,HKCR\.vbs,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.0,1.exe,4080,RegSetValue,HKCR\.vbs\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.vbe,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegCreateKey,HKCR\.vbe,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.0,1.exe,4080,RegSetValue,HKCR\.VBE\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.js,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegCreateKey,HKCR\.js,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.0,1.exe,4080,RegSetValue,HKCR\.js\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.jse,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.0,1.exe,4080,RegCreateKey,HKCR\.jse,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.0,1.exe,4080,RegSetValue,HKCR\.JSE\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.0,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.wsf,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.1,1.exe,4080,RegCreateKey,HKCR\.wsf,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.1,1.exe,4080,RegSetValue,HKCR\.WSF\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.wsh,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.1,1.exe,4080,RegCreateKey,HKCR\.wsh,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.1,1.exe,4080,RegSetValue,HKCR\.WSH\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.scr,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.1,1.exe,4080,RegCreateKey,HKCR\.scr,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.1,1.exe,4080,RegSetValue,HKCR\.scr\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.pif,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.1,1.exe,4080,RegCreateKey,HKCR\.pif,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.1,1.exe,4080,RegSetValue,HKCR\.pif\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.msi,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.1,1.exe,4080,RegCreateKey,HKCR\.msi,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.1,1.exe,4080,RegSetValue,HKCR\.msi\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.hta,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.1,1.exe,4080,RegCreateKey,HKCR\.hta,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.1,1.exe,4080,RegSetValue,HKCR\.hta\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.1,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System,ACCESS DENIED,Desired Access: Set Value
+44:59.1,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\Windows,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: All Access, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.1,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\Windows\CurrentVersion,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: All Access, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.1,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\Windows\CurrentVersion\Policies,SUCCESS,"Desired Access: Maximum Allowed, Granted Access: Read, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.1,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer,ACCESS DENIED,Desired Access: Set Value
+44:59.1,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.1,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Hidden,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 0"
+44:59.1,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\HideFileExt,SUCCESS,"Type: REG_DWORD, Length: 4, Data: 1"
+44:59.1,1.exe,4080,CreateFile,C:\Windows\12.exe,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:59.1,1.exe,4080,RegOpenKey,HKCU\Software\Classes\.exe,NAME NOT FOUND,Desired Access: Maximum Allowed
+44:59.1,1.exe,4080,RegCreateKey,HKCR\.exe,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.1,1.exe,4080,RegSetValue,HKCR\.exe\(Default),ACCESS DENIED,"Type: REG_SZ, Length: 16, Data: exefile"
+44:59.2,1.exe,4080,CreateFile,C:\Windows\12.exe.exe,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:59.2,1.exe,4080,CreateFile,C:\Windows\12.exe first,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:59.2,1.exe,4080,CreateFile,C:\Windows\12.exe first.exe,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:59.2,1.exe,4080,RegCreateKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.2,1.exe,4080,RegSetValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit,ACCESS DENIED,"Type: REG_SZ, Length: 46, Data: C:\Windows\12.exe init"
+44:59.2,1.exe,4080,RegSetValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell,ACCESS DENIED,"Type: REG_SZ, Length: 78, Data: Explorer.exe C:\Windows\2019.exe shell"
+44:59.2,1.exe,4080,RegCreateKey,HKLM\Software\WOW6432Node\Microsoft\windows\CurrentVersion\Run,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.2,1.exe,4080,RegSetValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run\12,ACCESS DENIED,"Type: REG_SZ, Length: 50, Data: C:\Windows\12.exe hlmrun"
+44:59.2,1.exe,4080,RegCreateKey,HKCU\Software\Microsoft\windows\CurrentVersion\Run,SUCCESS,"Desired Access: Set Value, Disposition: REG_OPENED_EXISTING_KEY"
+44:59.2,1.exe,4080,RegSetValue,HKCU\Software\Microsoft\Windows\CurrentVersion\Run\2019,SUCCESS,"Type: REG_SZ, Length: 54, Data: C:\Windows\2019.exe hcurun"
+44:59.2,1.exe,4080,RegQueryValue,HKCU\Software\Microsoft\Windows Media\WMSDK\CloseDbgTrace,NAME NOT FOUND,Length: 16
+44:59.2,1.exe,4080,RegOpenKey,HKLM\Software\WOW6432Node\Microsoft\Windows,SUCCESS,Desired Access: Read
+44:59.2,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\HTML Help,SUCCESS,Desired Access: Read
+44:59.2,1.exe,4080,RegQueryValue,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\HTML Help\.HLP,NAME NOT FOUND,Length: 144
+44:59.2,1.exe,4080,CreateFile,C:\Windows\WINHELP.INI,NAME NOT FOUND,"Desired Access: Generic Read, Disposition: Open, Options: Synchronous IO Non-Alert, Non-Directory File, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:59.2,1.exe,4080,RegOpenKey,HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\Help,NAME NOT FOUND,Desired Access: Read
+44:59.2,1.exe,4080,CreateFile,C:\Windows\SysWOW64\.HLP,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:59.2,1.exe,4080,CreateFile,C:\Windows\Help\.HLP,NAME NOT FOUND,"Desired Access: Read Attributes, Disposition: Open, Options: Open Reparse Point, Attributes: n/a, ShareMode: Read, Write, Delete, AllocationSize: n/a"
+44:59.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Control\WMI\Security\3e0e3a92-b00b-4456-9dee-f40aba77f00e,NAME NOT FOUND,Length: 528
+44:59.3,1.exe,4080,RegQueryValue,HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-868303909-713215063-1058131251-1001\\Device\HarddiskVolume2\Users\vegetable\Desktop\1.exe,NAME NOT FOUND,Length: 40
